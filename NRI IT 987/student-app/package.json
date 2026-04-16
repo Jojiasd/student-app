@@ -6,7 +6,5 @@
   "scripts": {
     "start": "node api/students.js"
   },
-  "dependencies": {
-    "@vercel/blob": "^0.23.0"
-  }
+
 }
