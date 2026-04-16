@@ -1,6 +1,11 @@
 {
   "name": "student-app",
   "version": "1.0.0",
+  "description": "Student app using Vercel serverless API",
+  "type": "module",
+  "scripts": {
+    "start": "node api/students.js"
+  },
   "dependencies": {
     "@vercel/blob": "^0.23.0"
   }
